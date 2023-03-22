@@ -1,8 +1,22 @@
 {
+  "name": "jestdocumentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --verbose"
   },
-  "devDependencies": {
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElPlebe/JestDocumentation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElPlebe/JestDocumentation/issues"
+  },
+  "homepage": "https://github.com/ElPlebe/JestDocumentation#readme",
+  "dependencies": {
     "jest": "^29.5.0"
   }
 }
